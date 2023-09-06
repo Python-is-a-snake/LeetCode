@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class PalindromeNumberPalindromeNumberRomanToIntTwoSumSolutionTest {
+class PalindromeNumberSolutionTest {
     private final PalindromeNumberSolution palindromeNumberSolution = new PalindromeNumberSolution();
 
     @Test

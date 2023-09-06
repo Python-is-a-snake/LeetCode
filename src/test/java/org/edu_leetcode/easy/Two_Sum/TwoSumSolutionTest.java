@@ -3,7 +3,7 @@ package org.edu_leetcode.easy.Two_Sum;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class TwoSumPalindromeNumberRomanToIntTwoSumSolutionTest {
+class TwoSumSolutionTest {
 
     private final TwoSumSolution twoSumSolution = new TwoSumSolution();
 
