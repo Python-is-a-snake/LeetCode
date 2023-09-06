@@ -1,6 +1,6 @@
 package org.edu_leetcode.easy.Palindrome_Number;
 
-class Solution {
+class PalindromeNumberSolution {
     public boolean isPalindrome(int x) {
         String numAsStr = String.valueOf(x);
 

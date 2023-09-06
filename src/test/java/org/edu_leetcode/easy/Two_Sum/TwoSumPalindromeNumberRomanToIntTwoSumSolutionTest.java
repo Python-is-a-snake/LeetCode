@@ -1,12 +1,11 @@
 package org.edu_leetcode.easy.Two_Sum;
 
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class SolutionTest {
+class TwoSumPalindromeNumberRomanToIntTwoSumSolutionTest {
 
-    private final Solution solution = new Solution();
+    private final TwoSumSolution twoSumSolution = new TwoSumSolution();
 
     @Test
     void twoSumTestCase1() {
@@ -15,7 +14,7 @@ class SolutionTest {
 
         int[] expected = new int[] {0, 1};
 
-        Assertions.assertArrayEquals(expected, solution.twoSum(nums, target));
+        Assertions.assertArrayEquals(expected, twoSumSolution.twoSum(nums, target));
     }
     @Test
     void twoSumTestCase2() {
@@ -24,7 +23,7 @@ class SolutionTest {
 
         int[] expected = new int[] {1, 2};
 
-        Assertions.assertArrayEquals(expected, solution.twoSum(nums, target));
+        Assertions.assertArrayEquals(expected, twoSumSolution.twoSum(nums, target));
     }
     @Test
     void twoSumTestCase3() {
@@ -33,6 +32,6 @@ class SolutionTest {
 
         int[] expected = new int[] {0, 1};
 
-        Assertions.assertArrayEquals(expected, solution.twoSum(nums, target));
+        Assertions.assertArrayEquals(expected, twoSumSolution.twoSum(nums, target));
     }
 }
