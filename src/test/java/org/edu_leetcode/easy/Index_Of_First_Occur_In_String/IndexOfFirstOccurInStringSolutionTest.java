@@ -1,8 +1,6 @@
-package org.edu_leetcode.easy.Indx_Of_First_Occur_In_String;
+package org.edu_leetcode.easy.Index_Of_First_Occur_In_String;
 
 import org.junit.jupiter.api.Test;
-
-import java.lang.annotation.Target;
 
 import static org.junit.jupiter.api.Assertions.*;
 
