@@ -104,3 +104,7 @@ msrc/test/java/org/edu_leetcode/easy/Index_Of_First_Occur_In_String/IndexOfFirst
 Usrc/main/java/org/edu_leetcode/easy/Length_of_Last_Word/LengthOfLastWordSolution.java,6\0\60573c74e2f7731fbc8f69e52ba4a5224db414f7
 ‰
 Ysrc/test/java/org/edu_leetcode/easy/Length_of_Last_Word/LengthOfLastWordSolutionTest.java,d\f\df123c67aaeecccf2a61a4be444fc8f8eb1f4075
+u
+Esrc/test/java/org/edu_leetcode/easy/Plus_One/PlusOneSolutionTest.java,3\5\35daa967fc7a5dae64e494c1922df785b6d21000
+q
+Asrc/main/java/org/edu_leetcode/easy/Plus_One/PlusOneSolution.java,8\2\8228c7e93220a70feea3273a06be89952ae74ed6
