@@ -1,7 +1,5 @@
 package org.edu_leetcode.easy.Sqrt_x;
 
-import java.util.Map;
-
 public class SqrtXSolution {
     public int mySqrt(int x) {
         if(x == 0 || x == 1) return x;

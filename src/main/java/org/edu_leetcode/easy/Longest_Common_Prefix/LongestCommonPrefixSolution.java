@@ -1,4 +1,4 @@
-package org.edu_leetcode.easy.Merge_Two_Sorted_Lists.Longest_Common_Prefix;
+package org.edu_leetcode.easy.Longest_Common_Prefix;
 
 import java.util.Arrays;
 
